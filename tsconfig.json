@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false
+    },
+    "files": [
+        "index.ts",
+        "node_modules/typescript/lib/lib.es6.d.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

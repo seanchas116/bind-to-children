@@ -1,0 +1,25 @@
+{
+  "name": "bind-to-children",
+  "version": "0.1.0",
+  "description": "Simple utility to bind array to dom elements",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "run-browser": "^2.0.2",
+    "tape": "^4.5.1",
+    "typescript": "^1.8.9"
+  },
+  "scripts": {
+    "test": "run-browser test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanchas116/bind-to-children.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanchas116/bind-to-children/issues"
+  },
+  "homepage": "https://github.com/seanchas116/bind-to-children#readme"
+}
